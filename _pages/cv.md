@@ -7,4 +7,6 @@ author_profile: true
 
 You can download my full CV here:
 
-[Download CV]({{ '/files/Yuqi_HUANG_CV.pdf' | relative_url }})
+<a href="{{ site.baseurl }}/files/Yuqi_HUANG_CV.pdf" target="_blank">
+  Download CV
+</a>
