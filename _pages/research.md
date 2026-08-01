@@ -48,15 +48,15 @@ author_profile: true
 
   <article class="academic-item">
     <h2 class="academic-item__title">
-      Labour-Market Effects of New Zealand’s 20 Hours Free Early Childhood Education Policy
+      The Effect of New Zealand’s 20 Hours Free Early Childhood Education Policy on Gender Pay Gap
     </h2>
 
 
     <div class="academic-item__description">
       <p>
         This project evaluates the effects of New Zealand’s 20 Hours Free early
-        childhood education policy on maternal labour-force participation and
-        earnings.
+        childhood education policy on maternal labour-force participation, 
+        earnings and gender pay gap.
       </p>
 
       <p>
